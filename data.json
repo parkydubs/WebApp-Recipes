@@ -11,7 +11,10 @@ structure = {
     "button" : " ",
     "text": "Create Account"
   }
-  "Recipe Generator" : {
-    
+  "generator" : {
+    "title": "Recipe Generator",
+    "prompt" : "Enter your ingredients:",
+    "arrow" : "src = ",
+    "output": "List of recipes:"
   }
 }
