@@ -1,1 +1,12 @@
-
+structure = {
+  "main" : {
+    "title" : "What's Cookin",
+    "page1" : "Recipe Generator",
+    "page2" : "CuisineConnect",
+    "page3" : "LazyRecipes",
+    "image1": "src = "
+  }
+  "account": {
+    
+  }
+}
