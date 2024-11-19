@@ -4,7 +4,8 @@ structure = {
     "page1" : "Recipe Generator",
     "page2" : "CuisineConnect",
     "page3" : "LazyRecipes",
-    "image1": "src = "
+    "image1": "src = ",
+    "image2" : "src = "
   }
   "account": {
     "username" : "Bob Alex"
