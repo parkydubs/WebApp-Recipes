@@ -7,6 +7,6 @@ structure = {
     "image1": "src = "
   }
   "account": {
-    
+    "username" : "Bob Alex"
   }
 }
