@@ -6,15 +6,28 @@
     "page3" : "LazyRecipes",
     "image1": "src = ",
     "image2" : "src = "
+    "button" : "Create Account"
   },
   "account": {
-    "button" : " ",
-    "text": "Create Account"
+    "fn" : "First Name:",
+    "ln" : "Last Name: ",
+    "email" : "School Email:"
   },
   "generator" : {
     "title": "Recipe Generator",
     "prompt" : "Enter your ingredients:",
     "arrow" : "src = ",
     "output": "List of recipes:"
+  }
+  "search": {
+    "title" : "LazyRecipes",
+    "img1" : "src = ",
+    "s_recipes" : "Student - Shared Recipes",
+    "m_recipes" : "Media - Shared Recipes",
+    "button" : "XXX"
+  }
+  "connect" : {
+    "title" : "CuisineConnect",
+    "img1" : "src ="
   }
 }
