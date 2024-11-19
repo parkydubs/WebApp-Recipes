@@ -8,6 +8,10 @@ structure = {
     "image2" : "src = "
   }
   "account": {
-    "username" : "Bob Alex"
+    "button" : " ",
+    "text": "Create Account"
+  }
+  "Recipe Generator" : {
+    
   }
 }
