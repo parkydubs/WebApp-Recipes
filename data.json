@@ -6,11 +6,11 @@ structure = {
     "page3" : "LazyRecipes",
     "image1": "src = ",
     "image2" : "src = "
-  }
+  },
   "account": {
     "button" : " ",
     "text": "Create Account"
-  }
+  },
   "generator" : {
     "title": "Recipe Generator",
     "prompt" : "Enter your ingredients:",
