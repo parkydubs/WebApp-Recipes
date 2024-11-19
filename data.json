@@ -11,7 +11,8 @@
   "account": {
     "fn" : "First Name:",
     "ln" : "Last Name: ",
-    "email" : "School Email:"
+    "email" : "School Email:",
+    "button" : "Create!"
   },
   "generator" : {
     "title": "Recipe Generator",
